@@ -1,6 +1,8 @@
 # Solana Token Manager
 
-A React-based web application for managing Solana tokens, built with Vite, TypeScript, and Shadcn UI.
+A React-based web application for managing Solana tokens, built with Vite, TypeScript, and Shadcn UI. 
+
+NOTE ( UI is kind of messy 🤣🤣🤣, would adjust that )
 
 ## Features
 
@@ -52,7 +54,4 @@ A React-based web application for managing Solana tokens, built with Vite, TypeS
 ## Note
 
 This project interacts with the Solana devnet. Ensure you have a devnet account with SOL for transactions.
-
-## License
-
-[MIT License](LICENSE)
+** This Program is just for educational purpose 
